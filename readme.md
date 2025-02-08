@@ -43,7 +43,7 @@ The technologies and tools used are:
 1. Clone the repository
 
    ```sh
-   git clone https://github.com/sanketdisale871/Credenos.git
+   git clone https://github.com/sanketdisale871/Squadron_Temethon.git
    ```
 
 2. Install the dependencies:
